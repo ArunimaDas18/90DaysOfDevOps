@@ -1,0 +1,5 @@
+DevOps is a set of practices that combines software development and IT operations to create a streamlined and efficient software development process. It breakdown's barriers between different teams involved in software development
+
+In this blog post, we will explore the fundamentals of DevOps, automation, scaling, and infrastructure and why they are important.
+
+To read the blog, follow this link. : https://arunimadas18.hashnode.dev/introduction-to-devops
